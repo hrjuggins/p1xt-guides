@@ -1,27 +1,19 @@
-# Computer Science and Programming - Version 4.0
+# You can do this!
 
-Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
-
-**Note:** Prior guides have been deprecated but are still available [here](./deprecated/README.md)
+ [Tier Project Ideas](./project_ideas.md)
 
 ## Table of Contents
 
 ### Junior developer
 
-If you want to develop the skills necessary to be 'job ready' for a junior developer position - complete tier X, 0, and 1.
-
 - [tier 1 - Getting Started](#tier-1---getting-started)
 
 ### Intermediate developer
-
-If you want to develop the skills necessary to move beyond junior to intermediate developer - once you've finished tiers X, 0 and 1, proceed to complete tiers 2 and 3.
 
 - [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
 - [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
 
 ### Advanced developer
-
-If you want to develop the skills necessary to move beyond intermediate to advanced developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
 
 - [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
 
@@ -32,8 +24,6 @@ If you want to develop the skills necessary to move beyond intermediate to advan
 ### Tier 1 - Getting Started
 
 Deepen understanding of Web Development and begin learning Computer Science topics.
-
-If you didn't do App Academy Open in Tier 0, please consider doing it as your Specialization in this Tier.
 
 | Courses                                                                                                                                                                                                |   Status   |   Evidence   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
